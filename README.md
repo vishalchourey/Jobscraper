@@ -33,7 +33,7 @@ git clone https://github.com/vishalchourey/JobScraper.git
 ```
 Navigate to the project directory:
 ```bash
-cd JobScraper
+cd webscraping
 ```
 ## Running the Application
   1. Ensure all dependencies are installed.
