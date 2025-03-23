@@ -39,7 +39,7 @@ cd JobScraper
   1. Ensure all dependencies are installed.
   2. Open a terminal and run the application:
      ```bash
-     python jobscraper.py
+     python job_scraper_app.py
      ```
   3. Follow the on-screen prompts to enter your job search requirements.
 ## Requirements File
