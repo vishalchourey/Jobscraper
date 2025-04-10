@@ -12,7 +12,7 @@ JobScraper is a desktop application built with Python that helps users collect j
 - **ChromeDriver** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="20" height="20">
 - **Pandas** <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" width="20" height="20">
 - **NumPy** <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png" width="20" height="20">
-
+- **Tkinter** 🪶
 
 ## Installation and Setup
 
